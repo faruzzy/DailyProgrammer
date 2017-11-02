@@ -1,4 +1,6 @@
 /**
+ * https://www.reddit.com/r/dailyprogrammer/comments/79npf9/20171030_challenge_338_easy_what_day_was_it_again/
+ *
  * What day of the week did hitler get elected on?
  * What day of the week did the Normans invade Britain on?
  * What day of the week did Jesus die on?
